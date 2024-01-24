@@ -47,3 +47,10 @@ All the files required to reproduce the analysis are provided in the data folder
 - Carlos Loucera <carlos.loucera@juntadeandalucia.es>
 - Joaquin Dopazo <joaquin.dopazo@juntadeandalucia.es>
 - Maria Peña-Chilet <mariapch84@gmail.com>
+
+## Citation
+
+If you use the contents of this repository, please cite us:
+
+> Payá-Milans, M.; Peña-Chilet, M.; Loucera, C.; Esteban-Medina, M.; Dopazo, J. Functional Profiling of Soft Tissue Sarcoma Using Mechanistic Models. Int. J. Mol. Sci. 2023, 24, 14732. doi: [10.3390/ijms241914732](https://doi.org/10.3390/ijms241914732)
+
